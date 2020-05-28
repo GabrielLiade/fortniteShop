@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fortniteShop.git/static/css/main.9be49790.chunk.css",
-    "main.js": "/fortniteShop.git/static/js/main.2e90f3e2.chunk.js",
-    "main.js.map": "/fortniteShop.git/static/js/main.2e90f3e2.chunk.js.map",
-    "runtime-main.js": "/fortniteShop.git/static/js/runtime-main.2c9a4ebb.js",
-    "runtime-main.js.map": "/fortniteShop.git/static/js/runtime-main.2c9a4ebb.js.map",
-    "static/css/2.c2ec6b8c.chunk.css": "/fortniteShop.git/static/css/2.c2ec6b8c.chunk.css",
-    "static/js/2.dfa4910c.chunk.js": "/fortniteShop.git/static/js/2.dfa4910c.chunk.js",
-    "static/js/2.dfa4910c.chunk.js.map": "/fortniteShop.git/static/js/2.dfa4910c.chunk.js.map",
+    "main.css": "/fortniteShop.git/static/css/main.05ab340d.chunk.css",
+    "main.js": "/fortniteShop.git/static/js/main.114bbf7a.chunk.js",
+    "main.js.map": "/fortniteShop.git/static/js/main.114bbf7a.chunk.js.map",
+    "runtime-main.js": "/fortniteShop.git/static/js/runtime-main.1e940fd8.js",
+    "runtime-main.js.map": "/fortniteShop.git/static/js/runtime-main.1e940fd8.js.map",
+    "static/css/2.7ed28d6b.chunk.css": "/fortniteShop.git/static/css/2.7ed28d6b.chunk.css",
+    "static/js/2.2d66a836.chunk.js": "/fortniteShop.git/static/js/2.2d66a836.chunk.js",
+    "static/js/2.2d66a836.chunk.js.map": "/fortniteShop.git/static/js/2.2d66a836.chunk.js.map",
     "index.html": "/fortniteShop.git/index.html",
-    "precache-manifest.0e73f47c0a75061d10e38f35087d2b37.js": "/fortniteShop.git/precache-manifest.0e73f47c0a75061d10e38f35087d2b37.js",
+    "precache-manifest.326adcb3e84aa3260d19306dfb5bda53.js": "/fortniteShop.git/precache-manifest.326adcb3e84aa3260d19306dfb5bda53.js",
     "service-worker.js": "/fortniteShop.git/service-worker.js",
-    "static/css/2.c2ec6b8c.chunk.css.map": "/fortniteShop.git/static/css/2.c2ec6b8c.chunk.css.map",
-    "static/css/main.9be49790.chunk.css.map": "/fortniteShop.git/static/css/main.9be49790.chunk.css.map",
+    "static/css/2.7ed28d6b.chunk.css.map": "/fortniteShop.git/static/css/2.7ed28d6b.chunk.css.map",
+    "static/css/main.05ab340d.chunk.css.map": "/fortniteShop.git/static/css/main.05ab340d.chunk.css.map",
     "static/media/logo.svg": "/fortniteShop.git/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c9a4ebb.js",
-    "static/css/2.c2ec6b8c.chunk.css",
-    "static/js/2.dfa4910c.chunk.js",
-    "static/css/main.9be49790.chunk.css",
-    "static/js/main.2e90f3e2.chunk.js"
+    "static/js/runtime-main.1e940fd8.js",
+    "static/css/2.7ed28d6b.chunk.css",
+    "static/js/2.2d66a836.chunk.js",
+    "static/css/main.05ab340d.chunk.css",
+    "static/js/main.114bbf7a.chunk.js"
   ]
 }
